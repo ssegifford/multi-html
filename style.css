@@ -1,0 +1,41 @@
+html{
+    /* background-image: url("ATV.jpg"); */
+    background-color: midnightblue;
+}
+
+h1 {
+    text-align: center;
+    color: gold;
+}
+
+img {
+    width: 30%;
+    height: 30%; 
+}
+
+a {
+    margin: 35%;
+    color: gold;
+    font-size: 25px;
+}
+
+#me {
+    width: 20%;
+    height: 25%;
+}
+
+div {
+    text-align: center;
+    font-weight: bold;
+    color: gold;
+
+}
+
+p {
+   width: 50%;
+   padding-left: 25%;
+   font-size: 20px;
+}
+
+
+
